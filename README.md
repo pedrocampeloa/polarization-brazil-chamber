@@ -71,7 +71,7 @@ pip install pandas numpy scipy scikit-learn statsmodels linearmodels matplotlib 
 Ensure `features_v2.csv` is in `data/interim/`, then run:
 
 ```bash
-python source/analyzer.py
+python source/vote_plots.py
 
 ```
 
