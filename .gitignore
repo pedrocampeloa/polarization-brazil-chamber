@@ -1,0 +1,20 @@
+# Ignore everything
+/*
+
+# Except these specific files/folders
+!/source/
+!/README.md
+!/main.tex
+!/ref.bib
+!/requirements.txt
+
+# Do NOT ignore the contents of source
+!/source/**
+
+# Ignore Python environment and IDE settings
+.venv/
+.idea/
+config/
+data/
+models/
+docs/
