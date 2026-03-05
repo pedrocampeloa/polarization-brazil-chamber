@@ -1,7 +1,3 @@
-Here is the complete, professional English version of your **README.md** file. You can copy the entire block below and paste it directly into your GitHub project.
-
----
-
 # Roll-call Voting and the Dynamics of Polarization in the Federal Chamber
 
 This repository contains the methodological framework and the statistical engine used to analyze political polarization in the Brazilian Chamber of Deputies (2014–2025). The project processes massive roll-call voting datasets to map the ideological spectrum and statistically validate the impact of tactical maneuvers (such as obstruction) on the perceived political distance between legislators.
@@ -107,7 +103,3 @@ python source/analyzer.py
 **How to Cite:**
 
 > Albuquerque, P. C., & Sousa, R. A. (2026). *Roll-call voting and the Dynamics of Polarization in the Federal Chamber*. University of Brasília (UnB) / Central Bank of Brazil.
-
----
-
-Would you like me to help you create a **LICENSE** file (like MIT or Apache) to specify how others can use your research code?
