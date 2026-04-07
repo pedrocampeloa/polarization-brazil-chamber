@@ -96,6 +96,9 @@ python source/vote_plots.py
 ├── main.tex        # Full academic paper
 └── ref.bib         # Bibliographic database
 
+### ZENODO
+You can get the features_v2.csv at ZENODO repository at: https://zenodo.org/records/19457434
+
 ```
 
 ---
